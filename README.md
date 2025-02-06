@@ -70,7 +70,7 @@ weighted avg       0.80      0.79      0.79      1409
 - Feature engineering and SMOTE significantly improved class balance.
 - Further improvement can be achieved using ensemble models or deep learning approaches.
 
-## Future Work
+## Further Improvements
 - Experiment with **Random Forest, LightGBM, or Neural Networks**.
 - Perform **feature selection** to enhance model interpretability.
 - Deploy the model using **Flask or FastAPI** for real-world application.
